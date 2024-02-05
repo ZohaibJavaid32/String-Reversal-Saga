@@ -1,4 +1,4 @@
-String Reversal Saga
+#Heading 1String Reversal Saga
 Description
 String Reversal Saga is a simple web application that allows users to add strings, apply string manipulation 
 algorithms (reverse string and find longest substring), and search for previously added strings.
