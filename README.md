@@ -1,6 +1,5 @@
 # String Reversal Saga
 
----
 ## Description
 
 String Reversal Saga is a simple web application that allows users to add strings, apply string manipulation 
